@@ -1,4 +1,4 @@
-python3 -c "
+
 import ollama, csv, json, sys
 from pathlib import Path
 
